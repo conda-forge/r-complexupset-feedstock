@@ -1,4 +1,4 @@
-{% set version = "1.3.1" %}
+{% set version = "1.3.3" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ComplexUpset_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ComplexUpset/ComplexUpset_{{ version }}.tar.gz
-  sha256: 671cf0972fac6737ee9780a538709f06d325053b8b850a5eeed04e5d88e2aba0
+  sha256: 5b2f99b4a38648641c7d31fc57f201a93e5bc1b85442a0b9726f72c166d964ea
 
 build:
   merge_build_host: true  # [win]
