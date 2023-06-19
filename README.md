@@ -1,11 +1,11 @@
-About r-complexupset
-====================
+About r-complexupset-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-complexupset-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/krassowski/complex-upset, https://krassowski.github.io/complex-upset/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-complexupset-feedstock/blob/main/LICENSE.txt)
 
 Summary: UpSet plots are an improvement over Venn Diagram for set overlap visualizations. Striving to bring the best of the 'UpSetR' and 'ggplot2', this package offers a way to create complex overlap visualisations, using simple and familiar tools, i.e. geoms of 'ggplot2'. For introduction to UpSet concept, see Lex et al. (2014) <doi:10.1109/TVCG.2014.2346248>.
 
